@@ -1,5 +1,5 @@
 ### Tittle:
-    ##E-Commerce Web Application
+    ## E-Commerce Web Application
 ### OVERVIEW OF THIS APPLICATION:
 The project is a full-stack e-commerce web application .
 It includes features like adding items to a cart, wishlist functionality, secure checkout, user authentication, and order tracking.
